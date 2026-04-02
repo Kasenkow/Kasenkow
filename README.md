@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Anton 👋
 
-<!--
-**Kasenkow/Kasenkow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a data scientist / machine learning engineer working in **consumer & market research**.
+Most days I build things that help researchers and analysts get to answers faster.
 
-Here are some ideas to get you started:
+### What I’m into right now
+- **Survey data** (missingness, quality, imputation, evaluation)
+- **POS data** (FMCG + Tech & Durables)
+- **Synthetic data / “synthetic respondents” with LLMs**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Things I like building
+- Python & R tooling (packages, reusable pipelines)
+- Small services / APIs
+- Occasionally: a bit of frontend… and I even vibe-coded a tiny Android app
+
+### Stack (varies by project)
+Python • R • SQL • Git • Docker • APIs
+
+### Say hi
+- LinkedIn: [Anton](https://www.linkedin.com/in/kasenkov/)
+- Email: [kasenkow@gmail.com](mailto:kasenkow@gmail.com)
+
+Fun fact: I’m into fitness and cycling 🚴
