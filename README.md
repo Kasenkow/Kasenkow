@@ -11,7 +11,7 @@ Most days I build things that help researchers and analysts get to answers faste
 ### Things I like building
 - Python & R tooling (packages, reusable pipelines)
 - Small services / APIs
-- Occasionally: a bit of frontend… and I even vibe-coded a tiny Android app
+- Occasionally: a bit of frontend, Android apps
 
 ### Stack (varies by project)
 Python • R • SQL • Git • Docker • APIs
